@@ -1,0 +1,7 @@
+{
+  "name": "vercel-ci-public-fork-test",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  }
+}

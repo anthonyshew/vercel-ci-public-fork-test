@@ -1,0 +1,13 @@
+{
+  "ci": {
+    "bootstrapping": {
+      "installEnv": {}
+    },
+    "jobs": [
+      {
+        "name": "test",
+        "command": "node test.js"
+      }
+    ]
+  }
+}
